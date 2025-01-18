@@ -13,6 +13,7 @@ Highlights:
 - ⏳ And much more!
 
 ### Setup .env file
+make .env file inside of backend file
 
 ```js
 MONGODB_URI=...
